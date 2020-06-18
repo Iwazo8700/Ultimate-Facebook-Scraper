@@ -1,3 +1,5 @@
 #Lines starting with # and empty lines will be ignored
-https://www.facebook.com/andrew.ng.96
-https://www.facebook.com/zuck
+
+https://www.facebook.com/spottedunicamp2
+://www.facebook.com/spottedunicamp2
+https://www.facebook.com/andreis.purim
